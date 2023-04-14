@@ -12,14 +12,14 @@ The first step was to get familiar with the data and to clean it in Python. Seve
 A new CSV file was obtained and used to create a dashboard in Power BI. Through data visualization, several observations were made:
   - This visual showed the difference in the number of trees and their status/health. It was observed that the overall number of trees had increased in the past 10 years, but the number of dead trees had also increased.
 >  
-[alt teaxt](Statut_tree.jpg)
+![alt teaxt](Statut_tree.jpg)
 >
   - This visual revealed the distribution of tree species across different boroughs.
 >
-[alt teaxt](Borough_species_tree.jpg)
+![alt teaxt](Borough_species_tree.jpg)
 >
   - With this visual the number of tree is represented in function of their diamater. Thanks to a segment one or several species can be selected to observe their diamater
 >
-[alt teaxt](tree_diamater.jpg)
+![alt teaxt](tree_diamater.jpg)
 >
   Another visual represented the number of trees based on their diameter, with a segment allowing for the selection of one or more species for further observation.       This visual highlighted a few trees with a 0-inch diameter, which could be due to the census form rounding values lower than 1 to 0. Additionally, it was noted that   there were no values higher than 50, as explained earlier.
